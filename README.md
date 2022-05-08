@@ -8,7 +8,7 @@ For that purpose, to identify the HTML elements, Chrome Developer tools, automat
 
 ## Result
 
-### Scraping Full-Resolution Mars Hemisphere Images and Titles
+### 1. Scraping Full-Resolution Mars Hemisphere Images and Titles
 *  For that purpose, the Mars Hemisperes website was visited to view the hemisphere images. By using the Developer Tools, the proper elements of the page were inspected to scrape. 
 
 * A list was created to hold the .jpg image URL string and title for each hemisphere image.
@@ -25,11 +25,11 @@ For that purpose, to identify the HTML elements, Chrome Developer tools, automat
 
 
 
-### Updating the Web App with Mars Hemisphere Images and Titles
+### 2. Updating the Web App with Mars Hemisphere Images and Titles
 
 
 
-### Adding Bootstrap Components
+### 3. Adding Bootstrap Components
 
 
 

@@ -44,13 +44,13 @@ For that purpose, to identify the HTML elements, Chrome Developer tools, automat
 
 ### 3. Adding Bootstrap Components
 
+* The web app was updated to make it mobile-responsive and the appearance was customized.  
 
+* To check the website’s mobile-responsivity DevTools were used.
 
+* The Jumbotron header was updated by using a mars image on the background and changing the text color to black. [Customized Jumbotron Header](https://github.com/duygusimsek/Mission-to-Mars/blob/main/ScreenShots/Jumbotron%20header.png)
 
-
-
-
-
+* To customize the website, the orientation of the hemisphere images was changed to a one-line view by the grid from “col-md-6” to “col-md-3”. ![Updated_Hemispheres Image](https://github.com/duygusimsek/Mission-to-Mars/blob/main/ScreenShots/Updated_Hemispheres_img.png).
 
 ## Resource 
 * Crome Developer 
